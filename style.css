@@ -1,0 +1,28 @@
+#div1 {
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+    border: red solid 10px;
+}
+
+#div2 {
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+    border: red solid 10px;
+}
+
+input {
+    margin-top: 10px!important;
+    margin-bottom: 10px!important;
+}
+
+#paragraph1 {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+#paragraph2 {
+    margin-left: 20px;
+    font-size: 20px;
+}
